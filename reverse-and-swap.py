@@ -1,5 +1,4 @@
 def reverse_words_order_and_swap_cases(sentence):
-    # Write your code here
     reverse_word = list()
     
     for word in sentence:
