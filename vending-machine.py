@@ -1,5 +1,4 @@
 class VendingMachine:
-    # Implement the VendingMachine here
     def __init__(self, num_items, item_price):
         self.num_items = num_items
         self.item_price = item_price
